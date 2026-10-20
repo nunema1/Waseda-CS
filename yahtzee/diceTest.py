@@ -1,7 +1,7 @@
 import dice
 
-d6 = dice.Dice(6)
-d6two = dice.Dice(6)
+d6 = dice.D6()
+d6two = dice.D6()
 average = 0
 sum = 0
 numRoll = 10
