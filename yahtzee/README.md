@@ -1,0 +1,1 @@
+This is a Yahtzee project. I am going to make a yahtzee copy just so I can mess around with probabilities and whatnot.
